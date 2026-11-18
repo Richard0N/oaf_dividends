@@ -71,4 +71,4 @@ Is the reaction larger where investors know less about the firm?
 - Pettit, R. R. (1972). [Dividend Announcements, Security Performance, and Capital Market Efficiency](https://econbiz.de/Record/dividend-announcements-security-performance-and-capital-market-efficiency-pettit-richardson/10002644403). *Journal of Finance* 27(5), 993–1007.
 
 
-## Note: I will add access to the data on 19.11 or 20.11.;
+## Note: I will add access to the data on the 19.11 or the 20.11.;
